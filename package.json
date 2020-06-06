@@ -1,0 +1,28 @@
+{
+  "name": "consigna-hbs",
+  "version": "1.0.0",
+  "description": "consigna para practicar handlebars",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meschinca/consigna-handlebars.git"
+  },
+  "keywords": [
+    "comit",
+    "hbs"
+  ],
+  "author": "Mauro Schinca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meschinca/consigna-handlebars/issues"
+  },
+  "homepage": "https://github.com/meschinca/consigna-handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemon": "^2.0.4"
+  }
+}

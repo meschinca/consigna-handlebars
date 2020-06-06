@@ -1,0 +1,6 @@
+<ul class="movie-list">
+  {{#each movie}}
+  <li><img src="./img/{{this.cover}}" alt="{{this.title}}" width="202.5px" height="300px">
+  <p><a href="./movie-detail/{{this.id}}" target="_blank">({{this.title}}-{{this.year}})</a></p></li>
+  {{/each}}
+</ul>

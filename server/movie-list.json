@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "cover": "shawshank.jpg",
+    "director": "Frank Darabont",
+    "topCast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "IMDB": "https://www.imdb.com/title/tt0111161"
+  },
+  {
+    "id": 1,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "cover": "lotr_iii.jpg",
+    "director": "Peter Jackson",
+    "topCast": [ "Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+    "IMDB": "https://www.imdb.com/title/tt0167260"
+  },
+  {
+    "id": 2,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "cover": "v-for-vendetta.jpg",
+    "director": "James McTeigue",
+    "topCast": ["Natalie Portman", "Hugo Weaving", "John Hurt"],
+    "IMDB": "https://www.imdb.com/title/tt0434409"
+  },
+  {
+    "id": 3,
+    "title": "Joker",
+    "year": 2019,
+    "cover": "joker.jpg",
+    "director": "Todd Philips",
+    "topCast": ["Joanquin Phoenix", "Robert DeNiro", "Brett Cullen"],
+    "IMDB": "https://www.imdb.com/title/tt7286456"
+  },
+  {
+    "id": 4,
+    "title": "The Godfather",
+    "year": 1972,
+    "cover": "godfather-i.jpg",
+    "director": "Francis Ford Coppola",
+    "topCast": [" Marlon Brando", "Al Pacino", "James Caan"],
+    "IMDB": "https://www.imdb.com/title/tt0068646"
+  },
+  {
+    "id": 5,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "cover": "dark-knight.jpg",
+    "director": "Christopher Nolan",
+    "topCast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "IMDB": "https://www.imdb.com/title/tt0468569"
+  },
+  {
+    "id": 6,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "cover": "godfather-ii.jpg",
+    "director": "Francis Ford Coppola",
+    "topCast": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+    "IMDB": "https://www.imdb.com/title/tt0071562"
+  },
+  {
+    "id": 7,
+    "title": "Schindler's List",
+    "year": 1993,
+    "cover": "schindler.jpg",
+    "director": "Steven Spielberg",
+    "topCast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+    "IMDB": "https://www.imdb.com/title/tt0108052"
+  },
+  {
+    "id": 8,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "cover": "pulp.jpg",
+    "director": "Quentin Tarantino",
+    "topCast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "IMDB": "https://www.imdb.com/title/tt0110912"
+  },
+  {
+    "id": 9,
+    "title": "Inception",
+    "year": 2010,
+    "cover": "inception.jpg",
+    "director": "Christopher Nolan",
+    "topCast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "IMDB": "https://www.imdb.com/title/tt1375666"
+  }
+]
