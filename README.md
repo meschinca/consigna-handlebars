@@ -1,5 +1,11 @@
-### Consigna
-Crear un sitio sencillo de películas usando handlebars :handlebars: , similar a lo que estuvimos haciendo, que consista de 3 vistas:
+# Ejercicio de Handlebars
+
+## Vista Previa
+
+https://jugyd.sse.codesandbox.io/
+
+## Consigna
+Crear un sitio sencillo de películas usando handlebars `handlebars` , similar a lo que estuvimos haciendo, que consista de 3 vistas:
 
 - "home", página inicial (landing page) que solo tiene un mensaje de bienvenida.
 - "movie-list" que muestre una lista de películas, con una imagen chiquita de la tapa y su título y año entre paréntesis. El texto de título + año es un link para ver el detalle de la película (dispara un request GET a /movie/:id, donde "id" es el id de esa película). La lista se muestra ordenada tal como esté en el objeto de datos.
